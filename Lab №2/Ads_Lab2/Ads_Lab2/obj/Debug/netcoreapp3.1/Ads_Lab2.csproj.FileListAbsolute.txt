@@ -1,0 +1,14 @@
+C:\Users\test\source\repos\Ads_Lab2\Ads_Lab2\bin\Debug\netcoreapp3.1\Ads_Lab2.exe
+C:\Users\test\source\repos\Ads_Lab2\Ads_Lab2\bin\Debug\netcoreapp3.1\Ads_Lab2.deps.json
+C:\Users\test\source\repos\Ads_Lab2\Ads_Lab2\bin\Debug\netcoreapp3.1\Ads_Lab2.runtimeconfig.json
+C:\Users\test\source\repos\Ads_Lab2\Ads_Lab2\bin\Debug\netcoreapp3.1\Ads_Lab2.runtimeconfig.dev.json
+C:\Users\test\source\repos\Ads_Lab2\Ads_Lab2\bin\Debug\netcoreapp3.1\Ads_Lab2.dll
+C:\Users\test\source\repos\Ads_Lab2\Ads_Lab2\bin\Debug\netcoreapp3.1\Ads_Lab2.pdb
+C:\Users\test\source\repos\Ads_Lab2\Ads_Lab2\obj\Debug\netcoreapp3.1\Ads_Lab2.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\Ads_Lab2\Ads_Lab2\obj\Debug\netcoreapp3.1\Ads_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test\source\repos\Ads_Lab2\Ads_Lab2\obj\Debug\netcoreapp3.1\Ads_Lab2.AssemblyInfoInputs.cache
+C:\Users\test\source\repos\Ads_Lab2\Ads_Lab2\obj\Debug\netcoreapp3.1\Ads_Lab2.AssemblyInfo.cs
+C:\Users\test\source\repos\Ads_Lab2\Ads_Lab2\obj\Debug\netcoreapp3.1\Ads_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\Ads_Lab2\Ads_Lab2\obj\Debug\netcoreapp3.1\Ads_Lab2.dll
+C:\Users\test\source\repos\Ads_Lab2\Ads_Lab2\obj\Debug\netcoreapp3.1\Ads_Lab2.pdb
+C:\Users\test\source\repos\Ads_Lab2\Ads_Lab2\obj\Debug\netcoreapp3.1\Ads_Lab2.genruntimeconfig.cache
